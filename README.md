@@ -2,7 +2,7 @@
 
 <h3>Desenvolvedor Backend 👾</h3>
 
-Movido pelo desafio e o fascínio de explorar novidades.
+Impulsionado pelo desafio e pelo fascínio de explorar o desconhecido.
 
 ## 💻 Tecnologias e ferramentas
 
